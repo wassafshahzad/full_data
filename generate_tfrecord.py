@@ -48,9 +48,9 @@ def class_text_to_int(row_label):
     if row_label == '8':
         return 8
     if row_label == '9':
-        return 9 
-    if row_label == 'd':
-        return 11        
+        return 9
+    if row_label =='d':
+        return 11 
     else:
         None
 
